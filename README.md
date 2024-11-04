@@ -1,1 +1,1 @@
-![DEMO](./ins-demo)
+![DEMO](./ins-demo.gif)
