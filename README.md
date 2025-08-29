@@ -35,7 +35,7 @@
 <blockquote> Automatically detects when users make a wrong turn and re-routes to ensure they get back on track. </blockquote>
 
 <h2> Demo </h2>
-<img src="./demo.gif" alt="Project Use-Case Demo" width="350"/>
+<img src="demo.gif" alt="Project Use-Case Demo" width="350"/>
 
 <h2> Results </h2>
 <blockquote> First Runner Up for Best Computer Science & Data Science Final Year Project Award 2024 (Monash) </blockquote>
